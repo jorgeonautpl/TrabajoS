@@ -79,6 +79,8 @@ public class IngInformatica {
                 //bfwriter.flush();
 		bfwriter.close();
 		System.out.println("Archivo modificado satisfactoriamente..");
+                System.out.println("Sera registrado los cambios en este proyecto");
+                System.out.println("Sera registrado los cambios en este proyecto 2");
  
 		} catch (IOException e) {
 		} finally {
